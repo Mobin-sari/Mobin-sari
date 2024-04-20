@@ -5,7 +5,9 @@
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mobin-sari&show_icons=true&theme=radical)
 <h2></h2>
 
-<div align="left">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobin-sari&layout=compact&theme=radical)
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -23,7 +25,8 @@
 
 <h2></h2>
 
-<div align="left">
+
+<div align="center">
   <a href="mobinsarijs@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -35,14 +38,18 @@
   </a>
 </div>
 
+
 <h2></h2>
 
-<img align="right" height="150" src="https://media.tenor.com/QXZDa6KTqp4AAAAM/yugi-kaiba.gif"  />
+<div align="center" >
+  <img align="center" height="300" src="https://media.tenor.com/QXZDa6KTqp4AAAAM/yugi-kaiba.gif"  />
+</div>
 
 ###
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobin-sari&layout=compact&theme=radical)
+
+
 
 ###
 Feel free to explore my repositories and connect with me on [GitHub](https://github.com/Mobin-sari).
